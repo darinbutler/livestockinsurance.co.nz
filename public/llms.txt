@@ -1,0 +1,70 @@
+# LivestockInsurance.co.nz
+
+> NZ's independent livestock insurance comparison and referral service. We connect NZ farmers with licensed rural insurance advisers who compare FMG, Aon, Gallagher, NZI and specialist brokers to find the right cover.
+
+LivestockInsurance.co.nz is a lead generation and referral service, not an insurer or licensed financial adviser. We connect consumers with FMCA-regulated advisers who compare the market and recommend appropriate cover. This service is free to farmers — advisers are compensated by insurers.
+
+## Who We Help
+
+- **Cattle farmers** — dairy and beef herds, stud bulls, young stock
+- **Sheep farmers** — commercial flocks, stud rams, merino and fine wool
+- **Deer farmers** — velvet stags, breeding hinds, young stags
+- **Goat farmers** — dairy, meat, angora and cashmere fibre goats
+- **Pig farmers** — commercial operations and stud boars
+- **Alpaca and llama owners** — stud males, breeding females, fibre animals
+- **Poultry farmers** — commercial flocks and free-range operations
+- **Lifestyle block owners** — mixed livestock, hobby farming
+- **Stud breeders and show animal owners** — agreed value specialist cover
+
+## Coverage Types
+
+- **Mortality cover** — pays when animals die from accidental causes, disease, weather events, fire, electrocution, post-shearing exposure. From $80/year.
+- **Disease & illness cover** — compensation for notifiable diseases (Mycoplasma bovis), government-ordered culling, vet costs. From $150/year.
+- **Transit insurance** — covers livestock during transport to sales, between properties, at A&P shows. From $50/year.
+- **Farm & livestock liability** — protects if livestock injure people, damage property, or escape onto roads. From $300/year.
+- **Natural disaster cover** — flood, cyclone, earthquake, heavy snow, landslide losses. From $200/year.
+- **Theft cover** — protection against organised stock theft, increasingly common in NZ. From $100/year.
+
+## Key Pages
+
+- / — Homepage with quote form and coverage overview
+- /types/ — All coverage types explained
+- /types/mortality-cover/ — Livestock mortality cover
+- /types/disease-illness/ — Disease and illness cover
+- /types/transit-insurance/ — Transit insurance
+- /types/public-liability/ — Farm and livestock liability
+- /types/natural-disaster/ — Natural disaster cover
+- /types/theft-cover/ — Theft cover
+- /livestock/ — Insurance by animal type
+- /livestock/cattle-insurance/ — Cattle insurance
+- /livestock/sheep-insurance/ — Sheep insurance
+- /livestock/deer-insurance/ — Deer insurance
+- /livestock/goat-insurance/ — Goat insurance
+- /livestock/pig-insurance/ — Pig insurance
+- /livestock/alpaca-insurance/ — Alpaca & llama insurance
+- /livestock/poultry-insurance/ — Poultry insurance
+- /livestock/rare-breeds-insurance/ — Rare breeds & show animals
+- /compare/ — FMG vs Aon vs Gallagher vs NZI provider comparison
+- /faqs/ — Frequently asked questions
+- /blog/ — Guides and articles on livestock insurance
+- /contact/ — Quote request form
+
+## Key Providers
+
+- **FMG** — NZ's dominant rural insurer (~70% market share), best for comprehensive farm packs
+- **Aon** — global broker (~15%), strong online, good for livestock-only and stud animals
+- **Gallagher** — specialist breeds, alpacas, exotic livestock (~8%)
+- **NZI** (IAG) — competitive pricing, established farming operations (~7%)
+- **Gerrards / LCFG** — specialist brokers for high-value and deer farming
+
+## NZ Context
+
+- EQC/NHC does not cover livestock — only land and buildings
+- Mycoplasma bovis (Mb) is a major biosecurity risk for NZ dairy farmers
+- Cyclone Gabrielle (2023) killed 25,000+ sheep — natural disaster cover is critical
+- FENZ levy does not apply to livestock insurance (applies to property insurance)
+- All referred advisers are licensed under the Financial Markets Conduct Act 2013
+
+## About
+
+LivestockInsurance.co.nz is operated by cover4you Limited. We are not an insurer, underwriter, or licensed financial adviser. The advisers we refer are individually licensed under the FMCA 2013 and regulated by the Financial Markets Authority. Contact: hello@cover4you.co.nz
