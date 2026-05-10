@@ -15,7 +15,7 @@ export default function Footer() {
               <span className="text-gray-400 text-sm">.co.nz</span>
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed">
-              {"NZ's independent livestock insurance comparison. Free expert advice from licensed rural advisers."}
+              {"Independent livestock insurance comparison. Free expert advice from licensed rural advisers."}
             </p>
             <p className="text-gray-500 text-xs mt-3">
               <a href="mailto:hello@cover4you.co.nz" className="hover:text-gray-300 transition-colors">
@@ -59,7 +59,7 @@ export default function Footer() {
             <ul className="space-y-2">
               {[
                 { href: '/about/', label: 'About Us' },
-                { href: '/blog/', label: 'Blog' },
+                { href: '/blog/', label: 'Resources' },
                 { href: '/contact/', label: 'Contact' },
                 { href: '/faqs/', label: 'FAQs' },
                 { href: '/compare/', label: 'Compare Providers' },

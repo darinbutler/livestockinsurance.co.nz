@@ -21,15 +21,14 @@ export default function NavBar() {
 
           {/* Desktop Nav */}
           <div className="hidden md:flex items-center space-x-6">
-            <Link href="/" className="text-gray-300 hover:text-white text-sm font-medium transition-colors">
-              Home
-            </Link>
 
-            {/* Livestock Dropdown */}
-            <div className="relative">
+            {/* Livestock Dropdown — opens on hover */}
+            <div
+              className="relative"
+              onMouseEnter={() => setLivestockOpen(true)}
+              onMouseLeave={() => setLivestockOpen(false)}
+            >
               <button
-                onClick={() => setLivestockOpen(!livestockOpen)}
-                onBlur={() => setTimeout(() => setLivestockOpen(false), 150)}
                 className="text-gray-300 hover:text-white text-sm font-medium transition-colors flex items-center space-x-1"
               >
                 <span>Livestock</span>
@@ -38,7 +37,7 @@ export default function NavBar() {
                 </svg>
               </button>
               {livestockOpen && (
-                <div className="absolute top-8 left-0 bg-white rounded-lg shadow-xl border border-gray-100 py-2 w-64 z-50">
+                <div className="absolute top-full left-0 bg-white rounded-lg shadow-xl border border-gray-100 py-2 w-64 z-50">
                   {LIVESTOCK_TYPES.map((lt) => (
                     <Link
                       key={lt.slug}
@@ -60,7 +59,7 @@ export default function NavBar() {
               Compare
             </Link>
             <Link href="/blog/" className="text-gray-300 hover:text-white text-sm font-medium transition-colors">
-              Blog
+              Resources
             </Link>
             <Link
               href="/contact/"
@@ -90,9 +89,6 @@ export default function NavBar() {
       {/* Mobile menu */}
       {mobileOpen && (
         <div className="md:hidden bg-gray-800 border-t border-gray-700 px-4 py-4 space-y-3">
-          <Link href="/" className="block text-gray-300 hover:text-white text-sm font-medium py-1" onClick={() => setMobileOpen(false)}>
-            Home
-          </Link>
           <div>
             <p className="text-gray-500 text-xs uppercase tracking-wider mb-1">Livestock Types</p>
             {LIVESTOCK_TYPES.map((lt) => (
@@ -114,7 +110,7 @@ export default function NavBar() {
             Compare Providers
           </Link>
           <Link href="/blog/" className="block text-gray-300 hover:text-white text-sm font-medium py-1" onClick={() => setMobileOpen(false)}>
-            Blog
+            Resources
           </Link>
           <Link
             href="/contact/"
