@@ -22,7 +22,7 @@ export default function HomePage() {
       {/* Hero */}
       <section className="relative bg-gray-900 overflow-hidden">
         <div
-          className="absolute inset-0 bg-cover bg-center opacity-20"
+          className="absolute inset-0 bg-cover bg-center opacity-40"
           style={{ backgroundImage: `url(https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=700&fit=crop&auto=format&q=80)` }}
         />
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-20">
@@ -32,7 +32,7 @@ export default function HomePage() {
                 Independent Livestock Insurance Comparison
               </div>
               <h1 className="text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4">
-                NZ Livestock Insurance — Compare &amp; Get Covered
+                Livestock Insurance — Compare &amp; Get Covered
               </h1>
               <p className="text-gray-300 text-lg mb-6 leading-relaxed">
                 Independent comparison of FMG, Aon, Gallagher, NZI and specialist brokers. Expert advice for farmers — cattle, sheep, deer, goat, pig, alpaca and poultry insurance.
