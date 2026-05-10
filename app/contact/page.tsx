@@ -28,8 +28,9 @@ export default function ContactPage() {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(contactPageSchema) }} />
 
-      <section className="bg-gray-900 py-14">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <section className="relative bg-gray-900 overflow-hidden py-14">
+        <div className="absolute inset-0 bg-cover bg-center opacity-35" style={{ backgroundImage: `url(https://images.pexels.com/photos/19292063/pexels-photo-19292063.jpeg?auto=compress&cs=tinysrgb&w=1400&h=500&fit=crop)` }} />
+        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <nav className="text-sm text-gray-400 mb-4">
             <Link href="/" className="hover:text-gray-200">Home</Link>
             <span className="mx-2">/</span>
