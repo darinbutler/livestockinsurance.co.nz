@@ -55,7 +55,7 @@ export const LIVESTOCK_TYPES: LivestockType[] = [
     slug: 'deer-insurance',
     name: 'Deer Insurance',
     icon: '🦌',
-    heroImage: 'https://images.unsplash.com/photo-6tGANJJC7lg?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/14059065/pexels-photo-14059065.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     shortDesc: 'Specialist cover for deer farms — stags, hinds, velvet production animals, and breeding stock.',
     description: 'Deer farming is a specialist industry producing velvet and venison for global markets. Stags used in velvet production can be extremely valuable — trophy and elite genetics stags are worth $5,000–$50,000+. Deer insurance covers mortality, antler removal risks, disease, transit, and theft. FMG offers specific cover for stag death as a result of antler or velvet removal procedures, a risk unique to this industry.',
     keyFacts: [
@@ -74,7 +74,7 @@ export const LIVESTOCK_TYPES: LivestockType[] = [
     slug: 'goat-insurance',
     name: 'Goat Insurance',
     icon: '🐐',
-    heroImage: 'https://images.unsplash.com/photo-lVcl3-NV-fg?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/7248278/pexels-photo-7248278.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     shortDesc: 'Insurance for dairy goats, meat goats, and Angora fibre producers.',
     description: 'Goat farming spans dairy production (nanny goats for milk and cheese), meat production (Boer and feral goats), and fibre production (Angora/mohair). Dairy goat herds can be highly valuable, with elite does worth $500–$3,000+ each. Goat insurance covers mortality, disease, transit, and theft across all production types.',
     keyFacts: [
@@ -93,7 +93,7 @@ export const LIVESTOCK_TYPES: LivestockType[] = [
     slug: 'pig-insurance',
     name: 'Pig Insurance',
     icon: '🐷',
-    heroImage: 'https://images.unsplash.com/photo-vMjrs3C50d8?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/18138263/pexels-photo-18138263.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     shortDesc: 'Insurance for commercial pig farms and specialist breeding operations.',
     description: 'Commercial pig farming is an intensive industry with significant capital investment in breeding stock. Disease risks can be severe — an outbreak can affect an entire farm operation rapidly. Pig insurance covers mortality, disease, transit, and liability for commercial operations and specialist breed preservation farms.',
     keyFacts: [
@@ -112,7 +112,7 @@ export const LIVESTOCK_TYPES: LivestockType[] = [
     slug: 'alpaca-insurance',
     name: 'Alpaca & Llama Insurance',
     icon: '🦙',
-    heroImage: 'https://images.unsplash.com/photo-ZhF-9SKetvs?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/13990652/pexels-photo-13990652.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     shortDesc: 'Specialist cover for alpaca and llama farms — fibre animals, breeding stock, and show animals.',
     description: 'Alpaca and llama farming has grown significantly, with top-quality Huacaya and Suri alpacas commanding prices of $2,000–$20,000+. Show quality and elite genetics animals require agreed value specified cover. Alpaca and llama insurance covers mortality, disease, transit, and theft — with specialist brokers through Gallagher and Aon able to arrange appropriate cover.',
     keyFacts: [
@@ -131,7 +131,7 @@ export const LIVESTOCK_TYPES: LivestockType[] = [
     slug: 'poultry-insurance',
     name: 'Poultry Insurance',
     icon: '🐔',
-    heroImage: 'https://images.unsplash.com/photo-Nw0Yf7wQasw?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/2446695/pexels-photo-2446695.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     shortDesc: 'Insurance for poultry operations — broilers, layers, free-range flocks, and breeding birds.',
     description: 'Poultry farming ranges from large commercial broiler and layer operations to free-range and organic flocks. Poultry insurance covers mortality, disease outbreaks (including notifiable diseases such as avian influenza), transit, and public liability. Disease risk is the primary concern — a single biosecurity breach can devastate an entire flock.',
     keyFacts: [
@@ -150,7 +150,7 @@ export const LIVESTOCK_TYPES: LivestockType[] = [
     slug: 'rare-breeds-insurance',
     name: 'Rare Breeds & Show Animals',
     icon: '🏆',
-    heroImage: 'https://images.unsplash.com/photo-ocpI3Shnj5w?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/671931/pexels-photo-671931.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     shortDesc: 'Specialist cover for rare breed livestock, show animals, and high-value stud animals.',
     description: 'Rare and heritage breed livestock — including rare sheep breeds, heritage pigs, Highland cattle, miniature cattle, and registered show animals — often have values far exceeding standard commercial livestock. These animals require agreed value specialist cover arranged by brokers experienced in valuing non-standard livestock. Gallagher and specialist brokers are best placed to arrange cover for rare breeds.',
     keyFacts: [
