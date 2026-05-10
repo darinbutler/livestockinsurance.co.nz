@@ -80,7 +80,7 @@ export default function Footer() {
         {/* Disclaimer */}
         <div className="border-t border-gray-800 pt-6">
           <p className="text-gray-500 text-xs leading-relaxed mb-3">
-            LivestockInsurance.co.nz is operated by Cover4You Group. We connect farmers with licensed NZ rural insurance advisers. We do not sell insurance directly. The advisers we refer you to are licensed under the Financial Markets Conduct Act 2013.
+            LivestockInsurance.co.nz is operated by Cover4You Group. We connect farmers with licensed rural insurance advisers. We do not sell insurance directly. The advisers we refer you to are licensed under the Financial Markets Conduct Act 2013.
           </p>
           <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
             <p className="text-gray-600 text-xs">

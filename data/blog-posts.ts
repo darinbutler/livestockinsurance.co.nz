@@ -13,7 +13,7 @@ export const BLOG_POSTS: BlogPost[] = [
   {
     slug: 'complete-guide-livestock-insurance-nz',
     title: 'The Complete Guide to Livestock Insurance in New Zealand (2026)',
-    excerpt: 'Everything NZ farmers need to know about livestock insurance — coverage types, costs, providers, and how to get the right cover for your operation.',
+    excerpt: 'Everything farmers need to know about livestock insurance — coverage types, costs, providers, and how to get the right cover for your operation.',
     date: '2026-03-15',
     readTime: '12 min',
     category: 'Guides',
@@ -22,7 +22,7 @@ export const BLOG_POSTS: BlogPost[] = [
 
 New Zealand farming is a high-value, high-risk business. Your livestock are not just animals — they are capital assets, production units, and the foundation of your farming operation. A single disease outbreak, a cyclone, or a road accident can wipe out years of breeding investment in hours.
 
-Yet the majority of NZ livestock farmers carry inadequate insurance or none at all. This guide covers everything you need to know about protecting your animals.
+Yet the majority of livestock farmers carry inadequate insurance or none at all. This guide covers everything you need to know about protecting your animals.
 
 ## The Key Coverage Types
 
@@ -36,7 +36,7 @@ Yet the majority of NZ livestock farmers carry inadequate insurance or none at a
 
 ## The Major Providers
 
-**FMG (Farmers Mutual Group)** dominates the NZ rural insurance market with approximately 65-70% market share. They offer specialist livestock policies designed specifically for NZ farming conditions, including post-shearing exposure cover for sheep and velvet stag cover for deer farmers.
+**FMG (Farmers Mutual Group)** dominates the NZ rural insurance market with approximately 65-70% market share. They offer specialist livestock policies designed specifically for local farming conditions, including post-shearing exposure cover for sheep and velvet stag cover for deer farmers.
 
 **Aon** is a global broker with a strong NZ rural team. They can access multiple underwriters and are good for farmers with complex or unusual coverage needs.
 
@@ -77,7 +77,7 @@ Premium rates have increased across the board following two years of significant
 
 **Step 3: Choose your excess level.** Higher excess = lower premiums. For commercial herds, a $500–$1,000 excess per animal is common. For individual stud animals, a lower excess may be worth the premium.
 
-**Step 4: Compare at least two providers.** FMG is the default choice for most NZ farmers, but Aon and Gallagher regularly beat FMG on price for certain livestock types and regions.
+**Step 4: Compare at least two providers.** FMG is the default choice for most farmers, but Aon and Gallagher regularly beat FMG on price for certain livestock types and regions.
 
 **Step 5: Review annually.** Animal values change. Your coverage should too. An annual review with your adviser prevents underinsurance as stock values increase.
 
@@ -149,7 +149,7 @@ Livestock insurance premiums in New Zealand vary significantly based on species,
     heroImage: 'https://images.unsplash.com/photo-1570042225831-d98fa7577f1e?w=1400&h=600&fit=crop&auto=format&q=80',
     content: `## The Difference Between Mortality and Disease Cover
 
-Most NZ farmers understand they can insure their livestock against death — but many don't realise that mortality cover and disease & illness cover are often separate policies with different triggers and payouts.
+Most farmers understand they can insure their livestock against death — but many don't realise that mortality cover and disease & illness cover are often separate policies with different triggers and payouts.
 
 ## Mortality Cover: What It Does
 
@@ -174,7 +174,7 @@ Disease and illness cover compensates farmers for losses attributable to disease
 
 ## The Mycoplasma Bovis Lesson
 
-The Mycoplasma bovis outbreak from 2017 onwards showed NZ farmers exactly why disease cover matters. Farmers without explicit disease & illness cover found themselves:
+The Mycoplasma bovis outbreak from 2017 onwards showed farmers exactly why disease cover matters. Farmers without explicit disease & illness cover found themselves:
 - Receiving government compensation only (which was often below full market value)
 - Unable to claim for culled animals on standard mortality-only policies
 - Facing farm debt without full recovery
@@ -186,14 +186,14 @@ For most NZ dairy and sheep/beef farmers, the answer is yes. The combination of 
   {
     slug: 'cyclone-natural-disaster-livestock-insurance-nz',
     title: 'Natural Disasters and Livestock Insurance: Lessons from Cyclone Gabrielle',
-    excerpt: 'What NZ farmers learned about livestock insurance after Cyclone Gabrielle. How to make sure your livestock cover protects against floods, cyclones, and extreme weather.',
+    excerpt: 'What farmers learned about livestock insurance after Cyclone Gabrielle. How to make sure your livestock cover protects against floods, cyclones, and extreme weather.',
     date: '2026-03-05',
     readTime: '9 min',
     category: 'Coverage',
     heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
     content: `## Cyclone Gabrielle: A Watershed Moment for NZ Livestock Insurance
 
-In February 2023, Cyclone Gabrielle devastated Hawke's Bay and Gisborne, killing an estimated 3,000+ cattle and thousands of sheep. For many NZ farmers, it was the first time they discovered their standard livestock mortality policy didn't cover weather-related deaths.
+In February 2023, Cyclone Gabrielle devastated Hawke's Bay and Gisborne, killing an estimated 3,000+ cattle and thousands of sheep. For many farmers, it was the first time they discovered their standard livestock mortality policy didn't cover weather-related deaths.
 
 ## Why Standard Policies Often Don't Cover Natural Disasters
 
@@ -386,7 +386,7 @@ Natural disaster cover for sheep should include:
 
 ## Working with FMG for Sheep Insurance
 
-FMG dominates the NZ sheep insurance market. Their farm pack policies are specifically designed for NZ conditions, including post-shearing exposure and natural disaster cover. However, comparison with Aon and Gallagher is worthwhile, especially for farmers with high-value stud animals.`,
+FMG dominates the NZ sheep insurance market. Their farm pack policies are specifically designed for local conditions, including post-shearing exposure and natural disaster cover. However, comparison with Aon and Gallagher is worthwhile, especially for farmers with high-value stud animals.`,
   },
   {
     slug: 'deer-insurance-nz-velvet-stag-guide',

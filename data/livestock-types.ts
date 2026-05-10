@@ -38,7 +38,7 @@ export const LIVESTOCK_TYPES: LivestockType[] = [
     icon: '🐑',
     heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
     shortDesc: 'Cover for sheep flocks including stud rams, breeding ewes, and commercial mobs.',
-    description: "With approximately 5 million sheep, sheep farming is one of New Zealand's most important agricultural industries. Sheep insurance covers mortality, disease, natural disaster, and theft for commercial flocks and high-value stud animals. FMG offers specific post-shearing exposure cover unique to local conditions — an important protection for merino and fine wool producers.",
+    description: "With approximately 5 million sheep, sheep farming is one of the country's most important agricultural industries. Sheep insurance covers mortality, disease, natural disaster, and theft for commercial flocks and high-value stud animals. FMG offers specific post-shearing exposure cover unique to local conditions — an important protection for merino and fine wool producers.",
     keyFacts: [
       'NZ sheep industry worth $3.5B+ annually',
       'Average commercial ewe value: $150–$400',

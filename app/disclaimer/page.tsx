@@ -32,7 +32,7 @@ export default function DisclaimerPage() {
           <p>Before making any insurance decision, you should speak with a licensed Financial Advice Provider (FAP) who can assess your specific situation. The advisers we refer you to hold current FAP licences under the Financial Markets Conduct Act 2013.</p>
 
           <h2>Referral Service</h2>
-          <p>When you submit an enquiry through LivestockInsurance.co.nz, your details are passed to licensed NZ rural insurance advisers who will contact you to discuss your insurance needs. We earn a referral fee from these advisers. This is at no additional cost to you.</p>
+          <p>When you submit an enquiry through LivestockInsurance.co.nz, your details are passed to licensed rural insurance advisers who will contact you to discuss your insurance needs. We earn a referral fee from these advisers. This is at no additional cost to you.</p>
 
           <h2>Accuracy of Information</h2>
           <p>We make every effort to keep the information on this website accurate and up to date. However, insurance products, premiums, and provider offerings change regularly. The pricing guides, coverage descriptions, and provider information on this site are indicative only and may not reflect current offerings. Always confirm details with a licensed adviser or directly with the insurer.</p>

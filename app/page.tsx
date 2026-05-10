@@ -29,16 +29,16 @@ export default function HomePage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <div className="inline-block px-3 py-1 rounded-full text-xs font-semibold text-white mb-4" style={{ backgroundColor: '#0d7377' }}>
-                NZ&apos;s Independent Livestock Insurance Comparison
+                Independent Livestock Insurance Comparison
               </div>
               <h1 className="text-4xl lg:text-5xl font-extrabold text-white leading-tight mb-4">
                 NZ Livestock Insurance — Compare &amp; Get Covered
               </h1>
               <p className="text-gray-300 text-lg mb-6 leading-relaxed">
-                Independent comparison of FMG, Aon, Gallagher, NZI and specialist brokers. Expert advice for NZ farmers — cattle, sheep, deer, goat, pig, alpaca and poultry insurance.
+                Independent comparison of FMG, Aon, Gallagher, NZI and specialist brokers. Expert advice for farmers — cattle, sheep, deer, goat, pig, alpaca and poultry insurance.
               </p>
               <div className="flex flex-wrap gap-3 mb-6">
-                {['Free to use', 'Licensed NZ advisers', '24hr response', 'All livestock types'].map((t) => (
+                {['Free to use', 'Licensed advisers', '24hr response', 'All livestock types'].map((t) => (
                   <span key={t} className="flex items-center space-x-1 text-sm text-gray-300">
                     <svg className="w-4 h-4 text-green-400 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                       <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
@@ -61,7 +61,7 @@ export default function HomePage() {
           <div className="text-center mb-10">
             <h2 className="text-3xl font-bold text-gray-900 mb-3">Livestock We Cover</h2>
             <p className="text-gray-500 max-w-2xl mx-auto">
-              Specialist insurance for every type of NZ livestock — from commercial dairy herds to elite velvet stags and rare breeds.
+              Specialist insurance for every type of livestock — from commercial dairy herds to elite velvet stags and rare breeds.
             </p>
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
@@ -111,9 +111,9 @@ export default function HomePage() {
       <section className="py-16 bg-gray-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-10">
-            <h2 className="text-3xl font-bold text-white mb-3">NZ Livestock Insurance Providers</h2>
+            <h2 className="text-3xl font-bold text-white mb-3">Livestock Insurance Providers</h2>
             <p className="text-gray-400 max-w-2xl mx-auto">
-              We compare quotes from New Zealand&apos;s leading rural insurance specialists.
+              We compare quotes from the leading rural insurance specialists.
             </p>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
@@ -121,14 +121,14 @@ export default function HomePage() {
               {
                 name: 'FMG',
                 full: 'Farmers Mutual Group',
-                desc: "NZ's largest rural insurer with 65-70% market share. Specialist livestock policies for NZ conditions including post-shearing exposure and velvet stag cover.",
+                desc: "largest rural insurer with 65-70% market share. Specialist livestock policies for local conditions including post-shearing exposure and velvet stag cover.",
                 badge: 'Market Leader',
                 badgeColor: '#0d7377',
               },
               {
                 name: 'Aon',
                 full: 'Aon New Zealand',
-                desc: 'Global insurance broker with strong NZ rural expertise. Ideal for complex or unusual coverage needs, including access to Lloyd\'s markets for high-value stud animals.',
+                desc: 'Global insurance broker with strong rural expertise. Ideal for complex or unusual coverage needs, including access to Lloyd\'s markets for high-value stud animals.',
                 badge: 'Global Reach',
                 badgeColor: '#1e40af',
               },
@@ -173,7 +173,7 @@ export default function HomePage() {
           <div className="flex items-center justify-between mb-10">
             <div>
               <h2 className="text-3xl font-bold text-gray-900 mb-1">Latest Guides & News</h2>
-              <p className="text-gray-500">Expert advice for NZ livestock farmers.</p>
+              <p className="text-gray-500">Expert advice for livestock farmers.</p>
             </div>
             <Link href="/blog/" className="text-sm font-semibold hover:underline hidden sm:block" style={{ color: '#0d7377' }}>
               View all posts &rarr;
@@ -237,7 +237,7 @@ export default function HomePage() {
             Ready to Protect Your Livestock?
           </h2>
           <p className="text-teal-100 text-lg mb-8">
-            Free quotes from licensed NZ rural insurance advisers. No cost, no obligation.
+            Free quotes from licensed rural insurance advisers. No cost, no obligation.
           </p>
           <Link
             href="/contact/"

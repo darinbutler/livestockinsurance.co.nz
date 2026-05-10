@@ -21,9 +21,9 @@ export default function LivestockPage() {
               <span className="mx-2">/</span>
               <span className="text-gray-200">Livestock Insurance</span>
             </nav>
-            <h1 className="text-4xl font-extrabold text-white mb-4">Livestock Insurance NZ</h1>
+            <h1 className="text-4xl font-extrabold text-white mb-4">Livestock Insurance</h1>
             <p className="text-gray-300 text-lg">
-              Specialist cover for every type of NZ livestock. Compare providers and get free expert quotes from licensed rural advisers.
+              Specialist cover for every type of livestock. Compare providers and get free expert quotes from licensed rural advisers.
             </p>
           </div>
         </div>

@@ -95,7 +95,7 @@ export default function LivestockTypePage({ params }: { params: { slug: string }
             <div className="lg:col-span-2 space-y-8">
               {/* Description */}
               <div>
-                <h2 className="text-2xl font-bold text-gray-900 mb-4">About {lt.name} in New Zealand</h2>
+                <h2 className="text-2xl font-bold text-gray-900 mb-4">About {lt.name}</h2>
                 <p className="text-gray-600 leading-relaxed">{lt.description}</p>
               </div>
 
@@ -142,7 +142,7 @@ export default function LivestockTypePage({ params }: { params: { slug: string }
                 <div className="bg-gray-50 rounded-xl p-4 border border-gray-100">
                   <h3 className="font-semibold text-gray-900 text-sm mb-2">Why Use LivestockInsurance.co.nz?</h3>
                   <ul className="space-y-1.5">
-                    {['Free to use', 'Licensed NZ advisers', 'Compare FMG, Aon, Gallagher & NZI', 'Specialist rural knowledge', 'Response within 24 hours'].map((item) => (
+                    {['Free to use', 'Licensed advisers', 'Compare FMG, Aon, Gallagher & NZI', 'Specialist rural knowledge', 'Response within 24 hours'].map((item) => (
                       <li key={item} className="flex items-center space-x-2 text-xs text-gray-600">
                         <svg className="w-3.5 h-3.5 flex-shrink-0 text-green-500" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />

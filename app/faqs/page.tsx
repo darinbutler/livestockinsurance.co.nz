@@ -5,7 +5,7 @@ import { SITE } from '@/data/site';
 
 export const metadata: Metadata = {
   title: 'Livestock Insurance FAQs NZ | Common Questions Answered',
-  description: 'Frequently asked questions about livestock insurance in New Zealand — coverage types, costs, claims, and providers. Expert answers for NZ farmers.',
+  description: 'Frequently asked questions about livestock insurance — coverage types, costs, claims, and providers. Expert answers for farmers.',
   alternates: { canonical: `${SITE.domain}/faqs/` },
 };
 
@@ -35,7 +35,7 @@ export default function FAQsPage() {
           </nav>
           <h1 className="text-4xl font-extrabold text-white mb-3">Livestock Insurance FAQs</h1>
           <p className="text-gray-300 text-lg max-w-2xl">
-            Common questions about livestock insurance in New Zealand — answered by our specialist rural insurance team.
+            Common questions about livestock insurance — answered by our specialist rural insurance team.
           </p>
         </div>
       </section>
@@ -58,7 +58,7 @@ export default function FAQsPage() {
 
           <div className="text-center mt-8 p-6 rounded-xl" style={{ backgroundColor: '#0d7377' }}>
             <h3 className="font-bold text-white text-lg mb-2">Have Another Question?</h3>
-            <p className="text-teal-100 text-sm mb-4">Our licensed NZ rural insurance advisers are happy to help.</p>
+            <p className="text-teal-100 text-sm mb-4">Our licensed rural insurance advisers are happy to help.</p>
             <Link href="/contact/" className="inline-block bg-white font-bold px-5 py-2.5 rounded-lg text-sm" style={{ color: '#0d7377' }}>
               Contact Us
             </Link>

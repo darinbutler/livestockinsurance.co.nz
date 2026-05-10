@@ -7,7 +7,7 @@ export default function QuoteForm() {
     <div className="bg-white rounded-xl shadow-lg p-6">
       <h3 className="text-xl font-bold text-gray-900 mb-1">Get Free Quotes</h3>
       <p className="text-sm text-gray-500 mb-4">
-        Licensed NZ rural insurance advisers — no cost to you.
+        Licensed rural insurance advisers — no cost to you.
       </p>
       <form
         method="POST"
@@ -115,7 +115,7 @@ export default function QuoteForm() {
         </div>
 
         <p className="text-xs text-gray-400 mt-3 text-center">
-          Free to use. Licensed NZ rural insurance advisers only.
+          Free to use. Licensed rural insurance advisers only.
         </p>
       </form>
     </div>

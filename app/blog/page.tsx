@@ -5,7 +5,7 @@ import { SITE } from '@/data/site';
 
 export const metadata: Metadata = {
   title: 'Livestock Insurance Blog NZ | Guides, Costs & Coverage Advice',
-  description: 'Expert livestock insurance guides for NZ farmers — coverage advice, cost guides, natural disaster protection, and provider comparisons.',
+  description: 'Expert livestock insurance guides for farmers — coverage advice, cost guides, natural disaster protection, and provider comparisons.',
   alternates: { canonical: `${SITE.domain}/blog/` },
 };
 
@@ -23,7 +23,7 @@ export default function BlogPage() {
           </nav>
           <h1 className="text-4xl font-extrabold text-white mb-3">Livestock Insurance Blog</h1>
           <p className="text-gray-300 text-lg max-w-2xl">
-            Expert guides, cost breakdowns, and coverage advice for NZ livestock farmers.
+            Expert guides, cost breakdowns, and coverage advice for livestock farmers.
           </p>
           <div className="flex flex-wrap gap-2 mt-5">
             {categories.map((cat) => (

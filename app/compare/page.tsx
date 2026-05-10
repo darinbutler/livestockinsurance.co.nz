@@ -33,9 +33,9 @@ export default function ComparePage() {
             <span className="mx-2">/</span>
             <span className="text-gray-200">Compare Providers</span>
           </nav>
-          <h1 className="text-4xl font-extrabold text-white mb-4">Compare NZ Livestock Insurance Providers</h1>
+          <h1 className="text-4xl font-extrabold text-white mb-4">Compare Livestock Insurance Providers</h1>
           <p className="text-gray-300 text-lg max-w-2xl">
-            Side-by-side comparison of FMG, Aon, Gallagher, and NZI — so you can find the right provider for your livestock and farm situation.
+            Side-by-side comparison of FMG, Aon, Gallagher, and NZI — so you can find the right provider for your livestock and farm.
           </p>
         </div>
       </section>
@@ -45,7 +45,7 @@ export default function ComparePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
             {[
-              { name: 'FMG', subtitle: 'Farmers Mutual Group', badge: 'Market Leader', color: '#0d7377', summary: "NZ's largest rural insurer. Specialist NZ conditions cover." },
+              { name: 'FMG', subtitle: 'Farmers Mutual Group', badge: 'Market Leader', color: '#0d7377', summary: "largest rural insurer. Specialist NZ conditions cover." },
               { name: 'Aon', subtitle: 'Aon New Zealand', badge: 'Global Reach', color: '#1e40af', summary: 'Global broker. Best for complex needs & Lloyd\'s access.' },
               { name: 'Gallagher', subtitle: 'Gallagher Insurance', badge: 'Specialist', color: '#92400e', summary: 'Exotic & specialist livestock. Best for rare breeds & alpacas.' },
               { name: 'NZI', subtitle: 'New Zealand Insurance', badge: 'Farm Pack', color: '#374151', summary: 'Comprehensive farm packs with bundled livestock cover.' },
@@ -111,7 +111,7 @@ export default function ComparePage() {
           <h2 className="text-2xl font-bold text-gray-900 mb-6">Which Provider Is Right for You?</h2>
           <div className="space-y-4">
             {[
-              { title: 'Choose FMG if...', desc: "You're a mainstream NZ sheep, cattle, or deer farmer. FMG understands NZ farming conditions better than anyone — post-shearing exposure, velvet stag cover, and the nuances of NZ rural risk. Approximately 65-70% of NZ rural farmers are with FMG for good reason.", color: '#0d7377' },
+              { title: 'Choose FMG if...', desc: "You're a mainstream NZ sheep, cattle, or deer farmer. FMG understands local farming conditions better than anyone — post-shearing exposure, velvet stag cover, and the nuances of NZ rural risk. Approximately 65-70% of NZ rural farmers are with FMG for good reason.", color: '#0d7377' },
               { title: 'Choose Aon if...', desc: "You have complex coverage needs, high-value stud animals requiring agreed values above standard FMG limits, or a mixed operation with unusual coverage requirements. Aon's Lloyd's market access provides flexibility FMG can't always match.", color: '#1e40af' },
               { title: 'Choose Gallagher if...', desc: 'You have exotic livestock — alpacas, llamas, rare breed sheep, heritage pigs, or high-value show animals. Gallagher specialises in non-standard livestock that standard farm insurers are reluctant to write.', color: '#92400e' },
               { title: 'Consider NZI if...', desc: "You want a comprehensive farm pack that bundles property, equipment, and livestock cover in one policy. NZI is competitive on farm pack pricing. Less specialist than FMG for livestock-only cover.", color: '#374151' },

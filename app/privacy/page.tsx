@@ -25,10 +25,10 @@ export default function PrivacyPage() {
       <section className="py-12 bg-white">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 prose prose-gray">
           <h2>Information We Collect</h2>
-          <p>When you submit an enquiry through LivestockInsurance.co.nz, we collect: your name, email address, phone number, livestock type, and cover type preferences. This information is used solely to connect you with licensed NZ rural insurance advisers.</p>
+          <p>When you submit an enquiry through LivestockInsurance.co.nz, we collect: your name, email address, phone number, livestock type, and cover type preferences. This information is used solely to connect you with licensed rural insurance advisers.</p>
 
           <h2>How We Use Your Information</h2>
-          <p>Your personal information is used to: (1) forward your enquiry to licensed NZ rural insurance advisers; (2) send you a confirmation email if requested; and (3) improve our service. We do not sell your personal information to third parties.</p>
+          <p>Your personal information is used to: (1) forward your enquiry to licensed rural insurance advisers; (2) send you a confirmation email if requested; and (3) improve our service. We do not sell your personal information to third parties.</p>
 
           <h2>Who We Share Your Information With</h2>
           <p>Your enquiry details are shared with licensed NZ rural insurance Financial Advice Providers who will contact you about your insurance needs. These advisers are bound by their own privacy obligations under the Privacy Act 2020 and their FAP licence conditions.</p>

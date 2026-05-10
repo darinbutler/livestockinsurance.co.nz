@@ -5,7 +5,7 @@ import { SITE } from '@/data/site';
 
 export const metadata: Metadata = {
   title: 'Get Livestock Insurance Quotes NZ | Free Expert Comparison | LivestockInsurance.co.nz',
-  description: 'Get free livestock insurance quotes from licensed NZ rural insurance advisers. Compare FMG, Aon, Gallagher and NZI. No cost, no obligation.',
+  description: 'Get free livestock insurance quotes from licensed rural insurance advisers. Compare FMG, Aon, Gallagher and NZI. No cost, no obligation.',
   alternates: { canonical: `${SITE.domain}/contact/` },
 };
 
@@ -37,7 +37,7 @@ export default function ContactPage() {
           </nav>
           <h1 className="text-4xl font-extrabold text-white mb-3">Get Free Livestock Insurance Quotes</h1>
           <p className="text-gray-300 text-lg max-w-2xl">
-            Our licensed NZ rural insurance advisers will compare providers and get you the right cover for your livestock and farm.
+            Our licensed rural insurance advisers will compare providers and get you the right cover for your livestock and farm.
           </p>
         </div>
       </section>
@@ -60,7 +60,7 @@ export default function ContactPage() {
                     { icon: '🆓', title: 'Free to Use', desc: 'Our service is completely free to you. Advisers earn a referral fee from the insurer — you pay nothing extra.' },
                     { icon: '⏰', title: '24-Hour Response', desc: 'We aim to have a licensed adviser contact you within 24 business hours of your enquiry.' },
                     { icon: '🔍', title: 'Independent Comparison', desc: 'We compare FMG, Aon, Gallagher, NZI, and specialist brokers — we\'re not tied to any single insurer.' },
-                    { icon: '🌾', title: 'Rural Specialists', desc: 'The advisers we work with specialise in rural and livestock insurance — they understand NZ farming.' },
+                    { icon: '🌾', title: 'Rural Specialists', desc: 'The advisers we work with specialise in rural and livestock insurance — they understand farming.' },
                   ].map((item) => (
                     <div key={item.title} className="flex space-x-4">
                       <span className="text-2xl flex-shrink-0">{item.icon}</span>

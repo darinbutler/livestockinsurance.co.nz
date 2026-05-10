@@ -22,7 +22,7 @@ export const COVERAGE_TYPES: CoverageType[] = [
     whoNeeds: ['Dairy farmers with high-value milking cows', 'Beef farmers with quality breeding bulls', 'Sheep farmers with valuable stud rams', 'Deer farmers with elite velvet stags', 'Any farmer with individual animals worth $2,000+'],
     fromPrice: 'From $80/year',
     metaTitle: 'Livestock Mortality Cover NZ | Livestock Insurance — Compare & Get Quotes',
-    metaDesc: 'Financial protection if your animals die from accidental causes, disease, or specified weather events. Free expert advice from licensed NZ rural insurance advisers.',
+    metaDesc: 'Financial protection if your animals die from accidental causes, disease, or specified weather events. Free expert advice from licensed rural insurance advisers.',
   },
   {
     slug: 'disease-illness',
@@ -34,7 +34,7 @@ export const COVERAGE_TYPES: CoverageType[] = [
     whoNeeds: ['Dairy farmers (Mycoplasma bovis risk)', 'Poultry farmers (avian influenza risk)', 'Pig farmers (disease outbreak risk)', 'Any farmer whose livelihood depends on flock/herd health'],
     fromPrice: 'From $100/year',
     metaTitle: 'Disease & Illness Cover NZ | Livestock Insurance — Compare & Get Quotes',
-    metaDesc: 'Cover for financial losses when livestock suffer from notifiable diseases, illness outbreaks, or government-ordered culling. Free expert advice from licensed NZ rural insurance advisers.',
+    metaDesc: 'Cover for financial losses when livestock suffer from notifiable diseases, illness outbreaks, or government-ordered culling. Free expert advice from licensed rural insurance advisers.',
   },
   {
     slug: 'transit-insurance',
@@ -46,7 +46,7 @@ export const COVERAGE_TYPES: CoverageType[] = [
     whoNeeds: ['Farmers who regularly send stock to sales', 'Stud breeders who show animals', 'Deer farmers who transport velvet stags', 'Anyone moving high-value animals by road or rail'],
     fromPrice: 'From $50/year',
     metaTitle: 'Livestock Transit Insurance NZ | Livestock Insurance — Compare & Get Quotes',
-    metaDesc: 'Cover for animals during transport — saleyards, between properties, to processing plants, and at agricultural events. Free expert advice from licensed NZ rural insurance advisers.',
+    metaDesc: 'Cover for animals during transport — saleyards, between properties, to processing plants, and at agricultural events. Free expert advice from licensed rural insurance advisers.',
   },
   {
     slug: 'natural-disaster',
@@ -58,7 +58,7 @@ export const COVERAGE_TYPES: CoverageType[] = [
     whoNeeds: ['Farmers in flood-prone river valleys', "East Coast and Hawke's Bay sheep and cattle farmers", 'High country farmers exposed to snowstorms', 'Any NZ farmer — natural disasters affect all regions'],
     fromPrice: 'From $60/year',
     metaTitle: 'Natural Disaster Cover NZ | Livestock Insurance — Compare & Get Quotes',
-    metaDesc: "Coverage for livestock losses from floods, cyclones, earthquakes, drought and other natural events. Free expert advice from licensed NZ rural insurance advisers.",
+    metaDesc: "Coverage for livestock losses from floods, cyclones, earthquakes, drought and other natural events. Free expert advice from licensed rural insurance advisers.",
   },
   {
     slug: 'public-liability',
@@ -70,7 +70,7 @@ export const COVERAGE_TYPES: CoverageType[] = [
     whoNeeds: ['Farmers near main roads or highways', 'Farms with regular visitor or contractor access', 'Deer farmers (deer are fast movers)', 'Any farmer with animals near unfenced boundaries'],
     fromPrice: 'From $120/year',
     metaTitle: 'Farm & Livestock Liability NZ | Livestock Insurance — Compare & Get Quotes',
-    metaDesc: 'Protection if your livestock injure people, damage property, or escape onto roads causing accidents. Free expert advice from licensed NZ rural insurance advisers.',
+    metaDesc: 'Protection if your livestock injure people, damage property, or escape onto roads causing accidents. Free expert advice from licensed rural insurance advisers.',
   },
   {
     slug: 'theft-cover',
@@ -82,6 +82,6 @@ export const COVERAGE_TYPES: CoverageType[] = [
     whoNeeds: ['Farmers in remote or boundary-heavy properties', 'Stud breeders with high-value animals', 'Sheep and cattle farmers in known theft-risk areas', 'Anyone with animals that are difficult to monitor'],
     fromPrice: 'From $50/year',
     metaTitle: 'Livestock Theft Cover NZ | Livestock Insurance — Compare & Get Quotes',
-    metaDesc: 'Protection against the theft of livestock from your property — increasingly important as stock theft rises in NZ. Free expert advice from licensed NZ rural insurance advisers.',
+    metaDesc: 'Protection against the theft of livestock from your property — increasingly important as stock theft rises in NZ. Free expert advice from licensed rural insurance advisers.',
   },
 ];

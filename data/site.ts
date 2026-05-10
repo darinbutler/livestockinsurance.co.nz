@@ -1,8 +1,8 @@
 export const SITE = {
   name: 'LivestockInsurance.co.nz',
   domain: 'https://livestockinsurance.co.nz',
-  tagline: "NZ's Independent Livestock Insurance Comparison",
-  description: "Compare livestock insurance from FMG, Aon, Gallagher, NZI and specialist brokers. Expert advice for NZ farmers — cattle, sheep, deer, goat, pig, alpaca and poultry insurance.",
+  tagline: "Independent Livestock Insurance Comparison",
+  description: "Compare livestock insurance from FMG, Aon, Gallagher, NZI and specialist brokers. Expert advice for farmers — cattle, sheep, deer, goat, pig, alpaca and poultry insurance.",
   email: 'hello@cover4you.co.nz',
   workerUrl: 'https://shiny-bush-41cd.darinbutler.workers.dev',
   formCC: 'butlerdarin@gmail.com',

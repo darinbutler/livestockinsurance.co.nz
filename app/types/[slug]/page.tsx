@@ -216,7 +216,7 @@ export default function CoverageTypePage({ params }: { params: { slug: string } 
       <section className="py-12" style={{ backgroundColor: '#0d7377' }}>
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-2xl font-bold text-white mb-3">Get {ct.name} Quotes</h2>
-          <p className="text-teal-100 mb-6">Free quotes from licensed NZ rural insurance advisers.</p>
+          <p className="text-teal-100 mb-6">Free quotes from licensed rural insurance advisers.</p>
           <Link href="/contact/" className="inline-block bg-white font-bold px-6 py-3 rounded-xl" style={{ color: '#0d7377' }}>
             Get Free Quotes
           </Link>
