@@ -60,7 +60,7 @@ The advisers we connect you with are licensed NZ professionals who specialise in
     date: '2026-04-01',
     readTime: '10 min',
     category: 'Guides',
-    heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/31487836/pexels-photo-31487836.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     content: `## Buying Livestock Insurance in 2026
 
 The NZ livestock insurance market has evolved significantly following Cyclone Gabrielle and the ongoing Mycoplasma bovis management programme. Farmers who previously relied on minimal coverage are now understanding the full cost of being underinsured.
@@ -96,7 +96,7 @@ Premium rates have increased across the board following two years of significant
     date: '2026-03-20',
     readTime: '8 min',
     category: 'Costs',
-    heroImage: 'https://images.unsplash.com/photo-1570042225831-d98fa7577f1e?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/4472994/pexels-photo-4472994.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     content: `## Livestock Insurance Costs in NZ: 2026 Guide
 
 Livestock insurance premiums in New Zealand vary significantly based on species, individual animal value, coverage type, location, and your claims history. This guide gives you realistic cost expectations for 2026.
@@ -146,7 +146,7 @@ Livestock insurance premiums in New Zealand vary significantly based on species,
     date: '2026-02-28',
     readTime: '7 min',
     category: 'Coverage',
-    heroImage: 'https://images.unsplash.com/photo-1570042225831-d98fa7577f1e?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/2383286/pexels-photo-2383286.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     content: `## The Difference Between Mortality and Disease Cover
 
 Most farmers understand they can insure their livestock against death — but many don't realise that mortality cover and disease & illness cover are often separate policies with different triggers and payouts.
@@ -190,7 +190,7 @@ For most NZ dairy and sheep/beef farmers, the answer is yes. The combination of 
     date: '2026-03-05',
     readTime: '9 min',
     category: 'Coverage',
-    heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/247110/pexels-photo-247110.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     content: `## Cyclone Gabrielle: A Watershed Moment for NZ Livestock Insurance
 
 In February 2023, Cyclone Gabrielle devastated Hawke's Bay and Gisborne, killing an estimated 3,000+ cattle and thousands of sheep. For many farmers, it was the first time they discovered their standard livestock mortality policy didn't cover weather-related deaths.
@@ -241,7 +241,7 @@ The key lesson: review your cover annually and confirm natural disaster cover is
     date: '2026-03-10',
     readTime: '8 min',
     category: 'Coverage',
-    heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/8903157/pexels-photo-8903157.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     content: `## Natural Disaster Risk for NZ Livestock Farmers
 
 New Zealand's geography creates significant natural disaster exposure for farmers. From cyclones in the North Island to blizzards in the South Island high country, extreme weather events are a regular part of NZ farming life.
@@ -287,7 +287,7 @@ Other brokers (Aon, Gallagher) can also access natural disaster cover through Ll
     date: '2026-02-15',
     readTime: '10 min',
     category: 'Livestock Types',
-    heroImage: 'https://images.unsplash.com/photo-1570042225831-d98fa7577f1e?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/19292063/pexels-photo-19292063.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     content: `## Dairy Cattle Insurance in New Zealand
 
 Dairy cattle are the most valuable livestock asset for most NZ dairy farmers. An average milking herd of 250 cows at $3,500/cow represents $875,000 in stock value — often the largest single asset on a farm.
@@ -395,7 +395,7 @@ FMG dominates the NZ sheep insurance market. Their farm pack policies are specif
     date: '2026-03-01',
     readTime: '9 min',
     category: 'Livestock Types',
-    heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/14059065/pexels-photo-14059065.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     content: `## Deer Insurance in New Zealand
 
 NZ deer farming is a specialist industry producing velvet for the Asian market and venison for global restaurants. With approximately 800,000 deer farmed in NZ, the industry is worth over $500M annually. Elite velvet stags can be worth $5,000–$50,000+ each — but many deer farmers carry inadequate insurance.
@@ -442,7 +442,7 @@ Deer can clear most standard fences and are fast movers. A deer on a road poses 
     date: '2026-03-08',
     readTime: '8 min',
     category: 'Livestock Types',
-    heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/1574547/pexels-photo-1574547.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     content: `## Deer Velvet Insurance: The Complete NZ Guide
 
 New Zealand produces approximately 500 tonnes of deer velvet annually, with most exported to South Korea and China for traditional medicine. Individual velvet stags can produce $3,000–$15,000+ in velvet per year, making them extremely high-value assets that require specialist insurance cover.
@@ -488,7 +488,7 @@ A red deer stag on the road is a serious accident risk. Claims following vehicle
     date: '2026-04-05',
     readTime: '7 min',
     category: 'Coverage',
-    heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/17299063/pexels-photo-17299063.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     content: `## Post-Shearing Exposure: A Critical NZ Risk
 
 Post-shearing exposure is one of the most common causes of sheep deaths in New Zealand. When sheep are shorn, they lose their protective wool coat entirely — leaving them vulnerable to cold, wet, and windy conditions that their wool would normally keep them warm through.
@@ -534,7 +534,7 @@ A licensed NZ rural insurance adviser can help you structure your sheep cover to
     date: '2026-04-10',
     readTime: '8 min',
     category: 'Coverage',
-    heroImage: 'https://images.unsplash.com/photo-1570042225831-d98fa7577f1e?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/355441/pexels-photo-355441.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     content: `## Mycoplasma Bovis and Livestock Insurance
 
 Mycoplasma bovis (M. bovis) was first detected in New Zealand in 2017 and has resulted in government-ordered culling of tens of thousands of dairy cattle. For many affected farmers, the experience revealed significant gaps in their livestock insurance cover.
@@ -578,7 +578,7 @@ The rural insurance advisers we work with are familiar with the NZ M. bovis insu
     date: '2026-04-15',
     readTime: '8 min',
     category: 'Livestock Types',
-    heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/671931/pexels-photo-671931.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     content: `## Agreed Value Insurance for NZ Stud Animals
 
 Standard blanket livestock insurance pays out market value at time of loss. For commercial cattle, this works reasonably well. For stud animals — bulls, rams, deer stags — it often falls far short of what the animal is worth to your operation.
@@ -628,7 +628,7 @@ A specialist rural insurance adviser can identify the best market for your speci
     date: '2026-04-20',
     readTime: '7 min',
     category: 'Coverage',
-    heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
+    heroImage: 'https://images.pexels.com/photos/8910165/pexels-photo-8910165.jpeg?auto=compress&cs=tinysrgb&w=1400&h=600&fit=crop',
     content: `## Livestock Transit Insurance in New Zealand
 
 Every time you move livestock off your property, you are exposed to risks that your standard property-based livestock insurance may not cover. Transit insurance fills this critical gap.
