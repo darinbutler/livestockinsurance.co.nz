@@ -69,12 +69,23 @@ export default function HomePage() {
               <Link
                 key={lt.slug}
                 href={`/livestock/${lt.slug}/`}
-                className="bg-white rounded-xl p-5 border border-gray-100 hover:border-teal-300 hover:shadow-md transition-all group text-center"
+                className="bg-white rounded-xl overflow-hidden border-2 border-gray-100 hover:border-teal-400 hover:shadow-xl transition-all duration-300 group"
               >
-                <div className="text-4xl mb-3">{lt.icon}</div>
-                <h3 className="font-semibold text-gray-900 text-sm group-hover:text-teal-700 mb-1">{lt.name}</h3>
-                <p className="text-gray-400 text-xs leading-relaxed">{lt.shortDesc.split('—')[0]}</p>
-                <p className="text-xs font-semibold mt-2" style={{ color: '#0d7377' }}>{lt.fromPrice}</p>
+                {/* Photo */}
+                <div className="relative h-40 overflow-hidden">
+                  <img
+                    src={lt.heroImage.replace('w=1400&h=600', 'w=400&h=240')}
+                    alt={lt.name}
+                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent" />
+                </div>
+                {/* Text */}
+                <div className="p-4 text-center">
+                  <h3 className="font-semibold text-gray-900 text-sm group-hover:text-teal-700 mb-1">{lt.name}</h3>
+                  <p className="text-gray-400 text-xs leading-relaxed line-clamp-2">{lt.shortDesc.split('—')[0]}</p>
+                  <p className="text-xs font-semibold mt-2" style={{ color: '#0d7377' }}>{lt.fromPrice}</p>
+                </div>
               </Link>
             ))}
           </div>
@@ -95,12 +106,17 @@ export default function HomePage() {
               <Link
                 key={ct.slug}
                 href={`/types/${ct.slug}/`}
-                className="border border-gray-100 rounded-xl p-6 hover:border-teal-300 hover:shadow-md transition-all group"
+                className="border-2 border-gray-200 rounded-xl p-6 bg-white hover:border-teal-400 hover:shadow-xl hover:-translate-y-2 transition-all duration-300 group"
               >
-                <div className="text-3xl mb-3">{ct.icon}</div>
+                <div className="w-14 h-14 rounded-xl flex items-center justify-center text-3xl mb-4" style={{ backgroundColor: '#f0fafa' }}>
+                  {ct.icon}
+                </div>
                 <h3 className="font-bold text-gray-900 mb-2 group-hover:text-teal-700">{ct.name}</h3>
-                <p className="text-gray-500 text-sm leading-relaxed mb-3">{ct.shortDesc}</p>
-                <p className="text-xs font-semibold" style={{ color: '#0d7377' }}>{ct.fromPrice}</p>
+                <p className="text-gray-500 text-sm leading-relaxed mb-4">{ct.shortDesc}</p>
+                <div className="flex items-center justify-between">
+                  <p className="text-xs font-semibold" style={{ color: '#0d7377' }}>{ct.fromPrice}</p>
+                  <span className="text-xs font-semibold group-hover:underline" style={{ color: '#0d7377' }}>Learn more →</span>
+                </div>
               </Link>
             ))}
           </div>
