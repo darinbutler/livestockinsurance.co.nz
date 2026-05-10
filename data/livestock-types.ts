@@ -1,0 +1,168 @@
+export interface LivestockType {
+  slug: string;
+  name: string;
+  icon: string;
+  heroImage: string;
+  shortDesc: string;
+  description: string;
+  keyFacts: string[];
+  coverageTypes: string[];
+  fromPrice: string;
+  metaTitle: string;
+  metaDesc: string;
+}
+
+export const LIVESTOCK_TYPES: LivestockType[] = [
+  {
+    slug: 'cattle-insurance',
+    name: 'Cattle Insurance',
+    icon: '🐄',
+    heroImage: 'https://images.unsplash.com/photo-1570042225831-d98fa7577f1e?w=1400&h=600&fit=crop&auto=format&q=80',
+    shortDesc: 'Insurance for beef and dairy cattle — from individual bulls to entire herds.',
+    description: 'Cattle insurance in New Zealand covers both beef and dairy cattle, from individual high-value stud bulls and cows to entire commercial herds. Dairy cattle are among the most valuable farm assets in NZ, with individual cows worth $2,000–$5,000+. Stud bulls can be worth $10,000–$100,000+. Cover can be arranged for mortality, disease, infertility, transit, and theft.',
+    keyFacts: [
+      'Dairy cattle average value: $2,000–$5,000 per cow',
+      'Stud bulls: $10,000–$100,000+ per animal',
+      'NZ has approximately 9.5 million cattle',
+      'Mycoplasma bovis remains a significant disease risk',
+      'Cyclone Gabrielle killed ~3,000 cattle in 2023',
+    ],
+    coverageTypes: ['mortality-cover', 'disease-illness', 'transit-insurance', 'theft-cover'],
+    fromPrice: 'From $80/year',
+    metaTitle: 'Cattle Insurance NZ | Beef & Dairy Herd Cover | LivestockInsurance.co.nz',
+    metaDesc: 'Insurance for beef and dairy cattle — from individual bulls to entire herds. Free expert comparison from licensed NZ rural advisers.',
+  },
+  {
+    slug: 'sheep-insurance',
+    name: 'Sheep Insurance',
+    icon: '🐑',
+    heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
+    shortDesc: 'Cover for NZ sheep flocks including stud rams, breeding ewes, and commercial mobs.',
+    description: "New Zealand has approximately 5 million sheep, making sheep farming one of the country's most important agricultural industries. Sheep insurance covers mortality, disease, natural disaster, and theft for commercial flocks and high-value stud animals. FMG offers specific post-shearing exposure cover unique to NZ conditions — an important protection for merino and fine wool producers.",
+    keyFacts: [
+      'NZ sheep industry worth $3.5B+ annually',
+      'Average commercial ewe value: $150–$400',
+      'Stud rams: $500–$50,000+ per animal',
+      'Post-shearing exposure is a uniquely NZ risk',
+      'FMG dominates sheep insurance in NZ with ~70% market share',
+    ],
+    coverageTypes: ['mortality-cover', 'natural-disaster', 'transit-insurance', 'theft-cover'],
+    fromPrice: 'From $60/year',
+    metaTitle: 'Sheep Insurance NZ | Flock & Stud Ram Cover | LivestockInsurance.co.nz',
+    metaDesc: 'Cover for NZ sheep flocks including stud rams, breeding ewes, and commercial mobs. Free expert comparison from licensed NZ rural advisers.',
+  },
+  {
+    slug: 'deer-insurance',
+    name: 'Deer Insurance',
+    icon: '🦌',
+    heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
+    shortDesc: 'Specialist insurance for NZ deer farms — stags, hinds, velvet production animals, and breeding stock.',
+    description: 'New Zealand deer farming is a specialist industry producing velvet and venison for global markets. Stags used in velvet production can be extremely valuable — trophy and elite genetics stags are worth $5,000–$50,000+. Deer insurance covers mortality, antler removal risks, disease, transit, and theft. FMG offers specific cover for stag death as a result of antler or velvet removal procedures.',
+    keyFacts: [
+      'NZ deer industry worth $500M+ annually',
+      'Elite velvet stags: $5,000–$50,000+ per animal',
+      'Antler/velvet removal is a unique insurable risk',
+      "NZ is the world's largest deer velvet exporter",
+      'Approximately 800,000 deer farmed in NZ',
+    ],
+    coverageTypes: ['mortality-cover', 'disease-illness', 'transit-insurance', 'theft-cover'],
+    fromPrice: 'From $120/year',
+    metaTitle: 'Deer Insurance NZ | Velvet Stag & Herd Cover | LivestockInsurance.co.nz',
+    metaDesc: 'Specialist insurance for NZ deer farms — stags, hinds, velvet production animals, and breeding stock. Free expert advice from licensed NZ rural advisers.',
+  },
+  {
+    slug: 'goat-insurance',
+    name: 'Goat Insurance',
+    icon: '🐐',
+    heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
+    shortDesc: 'Insurance for NZ dairy goats, meat goats, and Angora fibre producers.',
+    description: 'New Zealand goat farming spans dairy production (nanny goats for milk and cheese), meat production (Boer and feral goats), and fibre production (Angora/mohair). Dairy goat herds can be highly valuable, with elite does worth $500–$3,000+ each. Goat insurance covers mortality, disease, transit, and theft across all production types.',
+    keyFacts: [
+      'NZ dairy goat industry growing rapidly',
+      'Elite dairy does: $500–$3,000+ per animal',
+      'Angora/mohair goats require specialist cover',
+      'Meat goat flocks often uninsured — significant risk',
+      'Disease risk high in intensive dairy goat systems',
+    ],
+    coverageTypes: ['mortality-cover', 'disease-illness', 'transit-insurance', 'theft-cover'],
+    fromPrice: 'From $70/year',
+    metaTitle: 'Goat Insurance NZ | Dairy, Meat & Fibre Goat Cover | LivestockInsurance.co.nz',
+    metaDesc: 'Insurance for NZ dairy goats, meat goats, and Angora fibre producers. Free expert comparison from licensed NZ rural advisers.',
+  },
+  {
+    slug: 'pig-insurance',
+    name: 'Pig Insurance',
+    icon: '🐷',
+    heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
+    shortDesc: 'Insurance for NZ commercial pig farms and specialist breeding operations.',
+    description: 'Commercial pig farming in New Zealand is an intensive industry with significant capital investment in breeding stock. Disease risks in pig farming can be severe — an outbreak can affect an entire farm operation rapidly. Pig insurance covers mortality, disease, transit, and liability for commercial operations and specialist breed preservation farms.',
+    keyFacts: [
+      'NZ pig industry produces ~475,000 pigs annually',
+      'Elite breeding boars: $2,000–$10,000+ per animal',
+      'Disease outbreaks can affect entire operations',
+      'Liability cover critical for farms near roads/neighbours',
+      'Specialist breed pigs may need agreed value cover',
+    ],
+    coverageTypes: ['mortality-cover', 'disease-illness', 'public-liability', 'transit-insurance'],
+    fromPrice: 'From $80/year',
+    metaTitle: 'Pig Insurance NZ | Commercial & Breeding Pig Cover | LivestockInsurance.co.nz',
+    metaDesc: 'Insurance for NZ commercial pig farms and specialist breeding operations. Free expert comparison from licensed NZ rural advisers.',
+  },
+  {
+    slug: 'alpaca-insurance',
+    name: 'Alpaca & Llama Insurance',
+    icon: '🦙',
+    heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
+    shortDesc: 'Specialist insurance for NZ alpaca and llama farms — fibre animals, breeding stock, and show animals.',
+    description: 'New Zealand alpaca and llama farming has grown significantly, with top-quality Huacaya and Suri alpacas commanding prices of $2,000–$20,000+. Show quality and elite genetics animals require agreed value specified cover. Alpaca and llama insurance covers mortality, disease, transit, and theft — with specialist brokers through Gallagher and Aon able to arrange appropriate cover.',
+    keyFacts: [
+      'Elite alpacas: $2,000–$20,000+ per animal',
+      'Suri fibre alpacas command premium prices',
+      'Show animals require agreed value cover',
+      'Transit cover essential for show circuit animals',
+      'Gallagher specialises in exotic/specialist livestock',
+    ],
+    coverageTypes: ['mortality-cover', 'transit-insurance', 'theft-cover', 'disease-illness'],
+    fromPrice: 'From $100/year',
+    metaTitle: 'Alpaca & Llama Insurance NZ | Specialist Cover | LivestockInsurance.co.nz',
+    metaDesc: 'Specialist insurance for NZ alpaca and llama farms — fibre animals, breeding stock, and show animals. Free expert advice from licensed NZ rural advisers.',
+  },
+  {
+    slug: 'poultry-insurance',
+    name: 'Poultry Insurance',
+    icon: '🐔',
+    heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
+    shortDesc: 'Insurance for NZ poultry operations — broilers, layers, free-range flocks, and breeding birds.',
+    description: 'New Zealand poultry farming ranges from large commercial broiler and layer operations to free-range and organic flocks. Poultry insurance covers mortality, disease outbreaks (including notifiable diseases such as avian influenza), transit, and public liability. Disease risk is the primary concern for poultry farmers — a single biosecurity breach can devastate an entire flock.',
+    keyFacts: [
+      'NZ produces ~120 million broilers annually',
+      'Avian influenza is the primary disease risk',
+      'A single flock can be worth $50,000–$500,000+',
+      'Biosecurity breach can cause total flock loss',
+      'Specialist policies available for backyard to commercial',
+    ],
+    coverageTypes: ['disease-illness', 'mortality-cover', 'public-liability', 'natural-disaster'],
+    fromPrice: 'From $200/year',
+    metaTitle: 'Poultry Insurance NZ | Broiler, Layer & Free-Range Cover | LivestockInsurance.co.nz',
+    metaDesc: 'Insurance for NZ poultry operations — broilers, layers, free-range flocks, and breeding birds. Free expert advice from licensed NZ rural advisers.',
+  },
+  {
+    slug: 'rare-breeds-insurance',
+    name: 'Rare Breeds & Show Animals',
+    icon: '🏆',
+    heroImage: 'https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=1400&h=600&fit=crop&auto=format&q=80',
+    shortDesc: 'Specialist insurance for NZ rare breed livestock, show animals, and high-value stud animals.',
+    description: 'Rare and heritage breed livestock — including rare sheep breeds, heritage pigs, Highland cattle, miniature cattle, and registered show animals — often have values far exceeding standard commercial livestock. These animals require agreed value specialist cover arranged by brokers experienced in valuing non-standard livestock. Gallagher and specialist brokers are best placed to arrange cover for rare breeds.',
+    keyFacts: [
+      'Agreed value cover essential for rare breeds',
+      'Registration papers support valuation for claims',
+      'Show animals need transit cover for circuit travel',
+      'Standard blanket policies often inadequate',
+      'Gallagher specialises in exotic and rare livestock',
+    ],
+    coverageTypes: ['mortality-cover', 'transit-insurance', 'theft-cover', 'disease-illness'],
+    fromPrice: 'From $150/year',
+    metaTitle: 'Rare Breeds & Show Animal Insurance NZ | LivestockInsurance.co.nz',
+    metaDesc: 'Specialist insurance for NZ rare breed livestock, show animals, and high-value stud animals. Expert agreed value cover from specialist brokers.',
+  },
+];
